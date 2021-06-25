@@ -1,0 +1,16 @@
+main: com.mcsim415.Essentials.Main
+name: Essentials
+version: '1.0.1'
+author: mcsim415
+description: Essentials Plugin
+
+commands:
+  sethome:
+   description: save home pos
+   usage: "Usage: /sethome"
+  home:
+   description: goto saved home
+   usage: "Usage: /home"
+  back:
+   description: back to last warp or deathe
+   usage: "Usage: /back"
