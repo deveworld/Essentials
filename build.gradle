@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.mcsim415'
+group 'com.mcsim415'
 version '1.0.1'
 
 repositories {
